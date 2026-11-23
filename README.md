@@ -4,8 +4,6 @@
 
 ---
 
-
-
 # Damaris | Digital Learning Specialist
 
 Welcome to my professional portfolio.
