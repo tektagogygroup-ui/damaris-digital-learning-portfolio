@@ -1,110 +1,51 @@
-# Hello, I'm Damaris 👋
+# Damaris | Digital Learning Specialist
 
-### Digital Learning Specialist | Moodle LMS Administrator | Instructional Designer | Quality Assurance
+Welcome to my professional portfolio.
 
-Welcome to my professional portfolio!
+I am a Digital Learning Specialist with experience in Moodle LMS administration, lecturer support, instructional design, online assessment management and digital learning quality assurance.
 
-I am an Educational Technology and Digital Learning professional with extensive experience supporting university lecturers and academic staff in the design, development, delivery, and management of digital learning environments.
+My work focuses on helping educational institutions strengthen their digital learning environments and improve the effective use of technology in teaching and learning.
 
-Since 2008, I have supported digital learning activities at Kenyatta University, helping lecturers integrate technology into teaching, assessment, and student learning.
+## Professional Expertise
 
-I hold an MSc in ICT Integration in Education and Instructional Design and have formal ISO 9001:2015 Lead Auditor training, with over three years of experience leading internal institutional audits.
+- Moodle LMS administration and support
+- Lecturer training and capacity building
+- Online assessment and quiz management
+- Instructional design and course development
+- Digital learning quality assurance
+- ISO 9001:2015 internal auditing
+- LMS process improvement
 
----
+## Featured Projects
 
-## 👩‍💻 Professional Expertise
+### Moodle LMS Administration Toolkit
 
-- Moodle LMS Administration and Support
-- E-learning Course Development
-- Instructional Design
-- Lecturer Training and Capacity Building
-- Online Assessment and Quiz Development
-- Digital Learning Resource Development
-- LMS Troubleshooting and Technical Support
-- Learning Management System Quality Assurance
-- ISO 9001:2015 Internal Auditing
-- Continuous Improvement and Corrective Action
+A collection of practical resources for Moodle administrators, lecturers and digital learning support teams.
 
-## 🛠️ Technical and Professional Skills
+[Explore the Moodle Toolkit](https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit)
 
-| Area | Skills |
-|---|---|
-| LMS | Moodle Administration |
-| E-learning | Online and Blended Learning |
-| Instructional Design | Digital Course Development |
-| Assessment | Moodle Quizzes and Online Assessment |
-| Quality Assurance | ISO 9001:2015 |
-| Support | Lecturer and Student Support |
-| Educational Technology | Digital Learning Integration |
+### TEKTAGOGY Group
 
-## 📂 Portfolio Projects
+Digital learning and educational technology initiatives.
 
-### 1. Moodle LMS Administration Toolkit
-Practical resources for Moodle administrators and e-learning support teams.
+[Visit TEKTAGOGY Group](https://tektagogygroup-ui.github.io/)
 
-Planned resources:
-- Moodle administration guides
-- LMS maintenance checklists
-- User support documentation
-- Course management procedures
+## Professional Interests
 
-### 2. Lecturer Digital Learning Support
-Resources designed to help lecturers effectively use Moodle.
+I am interested in opportunities involving:
 
-Planned resources:
-- Lecturer onboarding guides
-- Moodle course setup checklists
-- Assessment configuration guides
-- Online teaching support resources
-
-### 3. E-learning Quality Assurance Framework
-Resources for evaluating and improving digital learning environments.
-
-Planned resources:
-- LMS quality audit checklists
-- Course quality assessment tools
-- Quality monitoring templates
-- Continuous improvement documentation
-
-## 🎓 Education and Professional Development
-
-- MSc in ICT Integration in Education and Instructional Design
-- Formal ISO 9001:2015 Lead Auditor Training
-- More than three years of institutional internal audit leadership experience
-
-## 🎯 Professional Interests
-
-- Digital Transformation in Higher Education
-- Learning Management Systems
-- Instructional Design
-- Online and Blended Learning
-- Educational Technology Innovation
-- Digital Skills Development
-- Quality Assurance in Education
-
-## 🏢 Organisation
-
-**TEKTAGOGY Group**
-
-Transforming Learning Through Technology.
-
-Website: https://tektagogygroup-ui.github.io/
-
-GitHub: https://github.com/tektagogygroup-ui
-
-## 🤝 Let's Connect
-
-I welcome opportunities to collaborate on:
-
-- Moodle LMS projects
-- Digital learning implementation
+- Remote digital learning support
+- Moodle administration
+- Learning management system implementation
 - Instructional design
-- E-learning consultancy
-- Educational technology projects
-- Remote digital learning opportunities
+- E-learning quality assurance
+- Educational technology consultancy
 
-**Location:** Kenya
+## Connect
+
+- GitHub: [tektagogygroup-ui](https://github.com/tektagogygroup-ui)
+- Website: [TEKTAGOGY Group](https://tektagogygroup-ui.github.io/)
 
 ---
 
-⭐ Thank you for visiting my professional portfolio!
+*Building better digital learning experiences through technology, instructional support and quality assurance.*
