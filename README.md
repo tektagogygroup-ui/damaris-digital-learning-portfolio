@@ -1,3 +1,6 @@
+![Damaris - Digital Learning Specialist](portfolio-banner.png)
+
+---
 # Damaris | Digital Learning Specialist
 
 Welcome to my professional portfolio.
