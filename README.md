@@ -22,19 +22,25 @@ My work focuses on helping educational institutions strengthen their digital lea
 - ISO 9001:2015 internal auditing
 - LMS process improvement
 
-## Featured Projects
+## ## Featured Projects
 
-### Moodle LMS Administration Toolkit
+### 1. Moodle LMS Administration Toolkit
 
 A collection of practical resources for Moodle administrators, lecturers and digital learning support teams.
 
-[Explore the Moodle Toolkit](https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit)
+- [Explore the Moodle Toolkit](https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit)
 
-### TEKTAGOGY Group
+### 2. Professional Experience Case Study
+
+A practical overview of my professional experience in Moodle LMS administration, lecturer support, online assessment and ISO 9001:2015-informed institutional quality assurance.
+
+- [Read My Professional Experience Case Study](professional-experience-case-study.md)
+
+### 3. TEKTAGOGY Group
 
 Digital learning and educational technology initiatives.
 
-[Visit TEKTAGOGY Group](https://tektagogygroup-ui.github.io/)
+- [Visit TEKTAGOGY Group](https://tektagogygroup-ui.github.io/)
 
 ## Professional Interests
 
