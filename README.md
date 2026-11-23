@@ -1,4 +1,10 @@
 
+<p align="center">
+  <img src="7e689e6b-5957-465e-8f70-5e367cf3b7ad.png" alt="Damaris - Digital Learning Specialist" width="100%">
+</p>
+
+---
+
 ![Damaris - Digital Learning Specialist](7e689e6b-5957-465e-8f70-5e367cf3b7ad.png)
 
 ---
