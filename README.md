@@ -49,8 +49,12 @@ I am interested in opportunities involving:
 
 ## Connect
 
-- GitHub: [tektagogygroup-ui](https://github.com/tektagogygroup-ui)
-- Website: [TEKTAGOGY Group](https://tektagogygroup-ui.github.io/)
+I welcome opportunities for professional collaboration, remote digital learning roles and educational technology consultancy.
+
+- **LinkedIn:** [Connect with Damaris](https://www.linkedin.com/in/damaris-mwithiga-1455b825)
+- **GitHub:** [TEKTAGOGY Group](https://github.com/tektagogygroup-ui)
+- **Website:** [TEKTAGOGY Group](https://tektagogygroup-ui.github.io/)
+
 
 ---
 
