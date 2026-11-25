@@ -24,6 +24,10 @@
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   background: var(--light);
@@ -54,6 +58,10 @@ h1 {
   font-size: clamp(30px, 5vw, 48px);
   margin: 12px 0;
   line-height: 1.2;
+}
+
+header h2 {
+  margin-bottom: 12px;
 }
 
 header p {
@@ -95,6 +103,7 @@ main {
 
 section {
   margin-bottom: 48px;
+  scroll-margin-top: 25px;
 }
 
 .section-heading {
@@ -126,6 +135,9 @@ section {
   border-radius: 12px;
   border: 1px solid #e5eaf1;
   box-shadow: 0 3px 12px rgba(20,43,74,.04);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .card h3 {
@@ -142,10 +154,14 @@ section {
 
 .card a, .button {
   display: inline-block;
-  color: var(--blue);
   text-decoration: none;
   font-weight: bold;
   font-size: 14px;
+}
+
+.card a {
+  color: var(--blue);
+  margin-top: auto;
 }
 
 .card a:hover {
@@ -223,15 +239,26 @@ footer {
   header {
     padding: 40px 6%;
   }
+
   nav {
     padding: 14px 6%;
   }
+
+  nav div {
+    gap: 14px;
+  }
+
   main {
     padding: 0 15px;
     margin-top: 25px;
   }
+
   .contact {
     padding: 25px 16px;
+  }
+
+  .card {
+    padding: 20px;
   }
 }
 </style>
@@ -243,7 +270,7 @@ footer {
   <div class="header-content">
     <div class="eyebrow">Professional Portfolio | TEKTAGOGY Group</div>
     <h1>Damaris</h1>
-    <h2>Moodle LMS Administrator & Digital Learning Specialist</h2>
+    <h2>Moodle LMS Administrator &amp; Digital Learning Specialist</h2>
     <p>
       Supporting effective digital learning through Moodle LMS administration,
       lecturer capacity building, online assessment management and quality assurance.
@@ -311,7 +338,10 @@ footer {
         An overview of Moodle administration workflows, lecturer support,
         assessment management and digital learning quality assurance.
       </p>
-      <a href="https://github.com/tektagogygroup-ui/damaris-digital-learning-portfolio/blob/main/moodle-lms-administration-project.md" target="_blank" rel="noopener noreferrer">Explore Project →</a>
+      <a href="https://github.com/tektagogygroup-ui/damaris-digital-learning-portfolio/blob/main/moodle-lms-administration-project.md"
+         target="_blank" rel="noopener noreferrer">
+         Explore Project →
+      </a>
     </article>
 
     <article class="card">
@@ -320,7 +350,10 @@ footer {
         Practical demonstration of assignment submissions, quiz settings,
         grading and feedback workflows.
       </p>
-      <a href="https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit/blob/main/moodle-assessment-administration-demo.md">View Demonstration →</a>
+      <a href="https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit/blob/main/moodle-assessment-administration-demo.md"
+         target="_blank" rel="noopener noreferrer">
+         View Demonstration →
+      </a>
     </article>
 
     <article class="card">
@@ -329,7 +362,10 @@ footer {
         A structured approach to investigating Moodle quiz navigation,
         saved attempts and assessment support issues.
       </p>
-      <a href="https://github.com/tektagogygroup-ui/damaris-digital-learning-portfolio/blob/main/moodle-administration-troubleshooting-case-study.md" target="_blank" rel="noopener noreferrer">Read Case Study →</a>
+      <a href="https://github.com/tektagogygroup-ui/damaris-digital-learning-portfolio/blob/main/moodle-administration-troubleshooting-case-study.md"
+         target="_blank" rel="noopener noreferrer">
+         Read Case Study →
+      </a>
     </article>
 
     <article class="card">
@@ -338,7 +374,10 @@ footer {
         A competency overview connecting Moodle administration skills
         with supporting portfolio evidence.
       </p>
-      <a href="moodle-lms-administration-project.md#11-moodle-lms-administration-skills-matrix">View Skills Matrix →</a>
+      <a href="https://github.com/tektagogygroup-ui/damaris-digital-learning-portfolio/blob/main/moodle-lms-administration-project.md#11-moodle-lms-administration-skills-matrix"
+         target="_blank" rel="noopener noreferrer">
+         View Skills Matrix →
+      </a>
     </article>
 
     <article class="card">
@@ -347,7 +386,10 @@ footer {
         Practical checklists and guides for Moodle administrators,
         lecturers and digital learning support teams.
       </p>
-      <a href="https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit">Explore Toolkit →</a>
+      <a href="https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit"
+         target="_blank" rel="noopener noreferrer">
+         Explore Toolkit →
+      </a>
     </article>
 
     <article class="card">
@@ -356,7 +398,10 @@ footer {
         An overview of professional experience in Moodle administration,
         lecturer support and institutional quality assurance.
       </p>
-      <a href="professional-experience-case-study.md">Read Experience Case Study →</a>
+      <a href="https://github.com/tektagogygroup-ui/damaris-digital-learning-portfolio/blob/main/professional-experience-case-study.md"
+         target="_blank" rel="noopener noreferrer">
+         Read Experience Case Study →
+      </a>
     </article>
 
   </div>
@@ -388,13 +433,14 @@ footer {
     </article>
 
   </div>
+
   <p style="margin-top:15px;color:#64748b;font-size:13px;">
     Screenshots are from the public Mount Orange Moodle demonstration environment.
   </p>
 </section>
 
 <section>
-  <h2 class="section-heading">Quality Assurance & Professional Practice</h2>
+  <h2 class="section-heading">Quality Assurance &amp; Professional Practice</h2>
   <div class="intro">
     <p>
       My quality assurance approach draws on ISO 9001:2015 internal
@@ -407,7 +453,8 @@ footer {
       digital learning processes.
     </p>
     <a class="button"
-       href="https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit/blob/main/iso-9001-lms-quality-audit-checklist.md">
+       href="https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit/blob/main/iso-9001-lms-quality-audit-checklist.md"
+       target="_blank" rel="noopener noreferrer">
        View Quality Assurance Resource
     </a>
   </div>
@@ -420,15 +467,24 @@ footer {
       Open to remote digital learning opportunities, Moodle administration
       roles, professional collaboration and educational technology consultancy.
     </p>
+
     <a class="button"
        href="https://www.linkedin.com/in/damaris-mwithiga-1455b825"
-       target="_blank" rel="noopener noreferrer">Connect on LinkedIn</a>
+       target="_blank" rel="noopener noreferrer">
+       Connect on LinkedIn
+    </a>
+
     <a class="button"
        href="https://tektagogygroup-ui.github.io/"
-       target="_blank" rel="noopener noreferrer">TEKTAGOGY Group</a>
+       target="_blank" rel="noopener noreferrer">
+       TEKTAGOGY Group
+    </a>
+
     <a class="button"
        href="https://github.com/tektagogygroup-ui"
-       target="_blank" rel="noopener noreferrer">GitHub Profile</a>
+       target="_blank" rel="noopener noreferrer">
+       GitHub Profile
+    </a>
   </div>
 </section>
 
