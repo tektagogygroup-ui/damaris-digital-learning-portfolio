@@ -29,6 +29,7 @@ A collection of practical resources for Moodle administrators, lecturers and dig
 - [Explore the Moodle Toolkit](https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit)
 - [View Moodle Assessment Administration Demonstration](https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit/blob/main/moodle-assessment-administration-demo.md)
 - [View Moodle LMS Administration Project](moodle-lms-administration-project.md)
+- [View Moodle Administration Troubleshooting Case Study](moodle-administration-troubleshooting-case-study.md)
 ### 2. Professional Experience Case Study
 
 A practical overview of my professional experience in Moodle LMS administration, lecturer support, online assessment and ISO 9001:2015-informed institutional quality assurance.
