@@ -139,5 +139,27 @@ It is relevant to opportunities in:
 - [TEKTAGOGY Group Website](https://tektagogygroup-ui.github.io/)
 
 ---
+## 10. Practical Moodle Interface Evidence
 
+The following screenshots illustrate selected Moodle assessment administration workflows explored in the public Mount Orange demonstration environment.
+
+### 10.1 Assignment Submission Management
+
+This screenshot illustrates the lecturer's assignment submission management interface, including submission monitoring and available grading actions.
+
+![Moodle Assignment Submission Management](./images/moodle-assignment-submission-management.png)
+
+### 10.2 Quiz Configuration
+
+This screenshot demonstrates Moodle quiz configuration, including assessment settings and administration options.
+
+![Moodle Quiz Configuration](./images/moodle-quiz-configuration.png)
+
+### 10.3 Grading and Feedback
+
+This screenshot illustrates the Moodle grading interface and the provision of feedback to learners.
+
+![Moodle Grading and Feedback](./images/moodle-grading-and-feedback.png)
+
+*All screenshots are from the public Mount Orange Moodle demonstration environment and are included for professional demonstration purposes.*
 *Building better digital learning experiences through effective LMS administration, lecturer support and quality assurance.*
