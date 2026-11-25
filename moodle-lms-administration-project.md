@@ -191,5 +191,6 @@ The competencies are applicable to roles such as:
 - Online Learning Support Specialist
 - Educational Technology Consultant
 - LMS Quality Assurance Officer
+
 *All screenshots are from the public Mount Orange Moodle demonstration environment and are included for professional demonstration purposes.*
 *Building better digital learning experiences through effective LMS administration, lecturer support and quality assurance.*
