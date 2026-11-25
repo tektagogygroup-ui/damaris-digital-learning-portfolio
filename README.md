@@ -1,5 +1,3 @@
-
-
 ![Damaris Professional Banner](./7e689e6b-5957-465e-8f70-5e367cf3b7ad.png)
 
 ---
@@ -22,13 +20,14 @@ My work focuses on helping educational institutions strengthen their digital lea
 - ISO 9001:2015 internal auditing
 - LMS process improvement
 
-## ## Featured Projects
+## Featured Projects
 
 ### 1. Moodle LMS Administration Toolkit
 
 A collection of practical resources for Moodle administrators, lecturers and digital learning support teams.
 
 - [Explore the Moodle Toolkit](https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit)
+- [View Moodle Assessment Administration Demonstration](https://github.com/tektagogygroup-ui/moodle-lms-administration-toolkit/blob/main/moodle-assessment-administration-demo.md)
 
 ### 2. Professional Experience Case Study
 
@@ -60,7 +59,6 @@ I welcome opportunities for professional collaboration, remote digital learning 
 - **LinkedIn:** [Connect with Damaris](https://www.linkedin.com/in/damaris-mwithiga-1455b825)
 - **GitHub:** [TEKTAGOGY Group](https://github.com/tektagogygroup-ui)
 - **Website:** [TEKTAGOGY Group](https://tektagogygroup-ui.github.io/)
-
 
 ---
 
