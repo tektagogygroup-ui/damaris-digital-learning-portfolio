@@ -160,6 +160,36 @@ This screenshot demonstrates Moodle quiz configuration, including assessment set
 This screenshot illustrates the Moodle grading interface and the provision of feedback to learners.
 
 ![Moodle Grading and Feedback](./images/moodle-grading-and-feedback.png)
+## 11. Moodle LMS Administration Skills Matrix
 
+The following matrix summarises key Moodle administration and digital learning support competencies, together with examples of supporting portfolio evidence.
+
+| Competency Area | Skills and Activities | Supporting Evidence |
+|---|---|---|
+| Moodle Course Administration | Course setup, configuration, readiness checks and organisation of learning resources | Moodle Course Setup Checklist |
+| User and Lecturer Support | Lecturer onboarding, guidance and troubleshooting support | Lecturer Moodle Onboarding Guide |
+| Assignment Administration | Submission monitoring, grading workflows and feedback management | Assignment Administration Demonstration and screenshots |
+| Quiz Administration | Quiz timing, grading, attempts, question behaviour and review settings | Quiz Configuration Demonstration and screenshot |
+| Assessment Troubleshooting | Investigating quiz access, attempt and configuration issues | Moodle Quiz Troubleshooting Guide |
+| LMS Quality Assurance | Course readiness reviews, process checks and continual improvement | ISO 9001-Informed LMS Quality Audit Checklist |
+| Digital Learning Support | Supporting effective use of Moodle activities and resources in teaching and learning | Professional Experience Case Study |
+
+### 11.1 Professional Application
+
+These competencies support the effective administration of Moodle-based learning environments and the delivery of responsive technical and instructional support to lecturers and learners.
+
+The evidence links provide examples of practical resources and demonstrations. They should be considered alongside my professional experience and not as a claim that every listed activity was performed in the public demonstration environment.
+
+### 11.2 Relevant Professional Opportunities
+
+The competencies are applicable to roles such as:
+
+- Moodle LMS Administrator
+- Digital Learning Specialist
+- E-learning Support Officer
+- Learning Management System Coordinator
+- Online Learning Support Specialist
+- Educational Technology Consultant
+- LMS Quality Assurance Officer
 *All screenshots are from the public Mount Orange Moodle demonstration environment and are included for professional demonstration purposes.*
 *Building better digital learning experiences through effective LMS administration, lecturer support and quality assurance.*
